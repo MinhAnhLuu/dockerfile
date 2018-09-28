@@ -1,7 +1,5 @@
 FROM ubuntu:16.04
 
-MAINTAINER HoanKi<hoanki2212@gmail.com>
-
 RUN DEBIAN_FRONTEND=noninteractive
 
 RUN apt-get update
